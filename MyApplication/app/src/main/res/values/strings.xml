@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudentNoteApp</string>
+
+    <string name="login_title">Login</string>
+    <string name="username_hint">Kullanıcı Adı</string>
+    <string name="password_hint">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+</resources>

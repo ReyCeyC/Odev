@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etDers"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Ders Adı"
+        android:inputType="textPersonName"
+        android:autofillHints="name"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/etVize"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Vize Notu"
+        android:inputType="number"
+        android:autofillHints="none"
+        android:padding="12dp"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/etFinal"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Final Notu"
+        android:inputType="number"
+        android:autofillHints="none"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnKaydet"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Kaydet"/>
+    <ListView
+        android:id="@+id/listViewNotes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>
