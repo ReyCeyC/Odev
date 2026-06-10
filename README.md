@@ -1,5 +1,4 @@
-ÖĞRENCİ NOT TAKİP SİSTEMİ (ANDROID - KOTLIN)
-PROJE AÇIKLAMASI
+ÖĞRENCİ NOT TAKİP SİSTEMİ 
 
 Bu proje, öğrencilerin ders notlarını dijital ortamda takip edebilmesi, vize ve final notlarına göre ortalama hesaplayabilmesi ve akademik durumlarını görüntüleyebilmesi amacıyla geliştirilmiştir.
 
